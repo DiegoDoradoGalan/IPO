@@ -1,0 +1,12 @@
+Ejecutable en la carpeta:
+
+Protectora\Protectora\Protectora\bin\Debug
+
+
+Autores:
+
+Diego Dorado Galán
+Esther Camacho Caro
+
+Grupo:
+BC
